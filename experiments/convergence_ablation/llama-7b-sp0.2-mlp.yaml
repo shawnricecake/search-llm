@@ -1,0 +1,35 @@
+random_space:
+  sample_attention_head_dim:
+    - 128
+    - 128
+    - 2
+  sample_num_attention_heads:
+    - 32
+    - 32
+    - 1
+  sample_intermediate_size:
+    - 5888
+    - 11008
+    - 512
+  sample_layer_num:
+    - 32
+    - 32
+    - 1
+
+mutation_space:
+  sample_attention_head_dim:
+    - 128
+    - 128
+    - 2
+  sample_num_attention_heads:
+    - 32
+    - 32
+    - 1
+  sample_intermediate_size:
+    - 5888
+    - 11008
+    - 256
+  sample_layer_num:
+    - 32
+    - 32
+    - 1
