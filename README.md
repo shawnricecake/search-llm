@@ -5,6 +5,7 @@ Official repo for paper: [Search for Efficient Large Language Models](https://ar
 This paper is accepted by NeurIPS 2024
 
 ## Usage
+0. Set initialization (TODO)
 1. Revise search space at `experiments/llama-7b.yaml`
 2. Directly start search with `sh run-search-llama.sh`
 
